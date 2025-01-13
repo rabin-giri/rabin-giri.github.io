@@ -23,22 +23,22 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Rabin Giri"
-  pronouns         : # example: "she/her"  
+  pronouns         : # example: "she/her"  "he/him"
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Kathmandu, Nepal"
   employer         : "Paaila Technology"
   uri              : www.paailatechonology.com
   email            : "rabin@paailatechnology.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=gr_TyU4AAAAJ&hl=en"
+  # impactstory      : # URL
+  # orcid            : "http://orcid.org/yourorcidurl"
+  # semantic         : # URL
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  scopus           : # URL
+  # scopus           : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/rabin-giri-55a822177/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
