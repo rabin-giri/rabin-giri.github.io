@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Rabin.jpeg"
   name             : "Rabin Giri"
   pronouns         : # example: "she/her"  "he/him"
   bio              : "Short biography for the left-hand sidebar"
