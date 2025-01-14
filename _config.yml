@@ -27,7 +27,7 @@ author:
   bio              : "Short biography for the left-hand sidebar"
   location         : "Kathmandu, Nepal"
   employer         : "Paaila Technology"
-  uri              : www.paailatechonology.com
+  uri              : # www.paailatechonology.com
   email            : "rabin@paailatechnology.com" 
 
   # Academic websites
