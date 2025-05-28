@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Hello folk, I'm rabin giri"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +9,7 @@ redirect_from:
 
 I’m a **Software Engineer** and **Co-founder** at [Paaila Technology](https://www.paailatechnology.com/), where I build intelligent systems that bridge hardware and software.
 
-## 🛠️ Projects I’ve Worked On
+## 🛠️ Some Projects I’ve Worked On
 
 - 🤖 **Pari** – Service robot for banks  
 - 🛎️ **Ginger** – Hospitality robot for hotels  
@@ -35,7 +34,7 @@ Our company has won several national and international awards and has been featu
 
 ## 🔧 Skills
 
-- Embedded Systems (STM32, AVR, FreeRTOS)  
+- Embedded Systems (STM32, ESP32, AVR, FreeRTOS)  
 - Firmware Development (C, C++)  
 - Robotics & Automation  
 - IoT & Real-time Applications  
@@ -45,4 +44,4 @@ Our company has won several national and international awards and has been featu
 
 I’m open to collaborations in robotics, embedded systems, and automation.
 
-> “Turning ideas into intelligent machines that make a difference in the real world.”
+> “By building intelligent machines, we amplify our own intelligence — unlocking new ways to understand, create, and transform the world.”
