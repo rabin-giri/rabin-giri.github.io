@@ -1,12 +1,11 @@
 ---
 permalink: /
+title: "👋 Hi, I'm Rabin Giri"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# 👋 Hi, I'm Rabin Giri
-
 I’m a **Software Engineer** and **Co-founder** at [Paaila Technology](https://www.paailatechnology.com/), where I build intelligent systems that bridge hardware and software.
 
 ## 🛠️ Some Projects I’ve Worked On
