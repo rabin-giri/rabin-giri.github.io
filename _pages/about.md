@@ -31,13 +31,13 @@ Our company has won several national and international awards and has been featu
 - 📰 **Bloomberg**
 - 📰 **Al Jazeera**
 
-## 🔧 Skills
+<!-- ## 🔧 Skills
 
 - Embedded Systems (STM32, ESP32, AVR, FreeRTOS)  
 - Firmware Development (C, C++)  
 - Robotics & Automation  
 - IoT & Real-time Applications  
-- Full Product Development
+- Full Product Development -->
 
 ## 📫 Contact
 
