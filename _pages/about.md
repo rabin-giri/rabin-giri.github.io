@@ -18,7 +18,7 @@ I’m a **Software Engineer** and **Co-founder** at [Paaila Technology](https://
 - 🧭 Robot Navigation  
 - 🏥 COVID-19 Emergency Ventilator
 
-## 🎓 My Background
+## 🤖 My Background
 
 While studying, I represented **Nepal** at **ABU Robocon** in **2015** and **2016**.  
 My passion for robotics started in college where I led projects that won multiple national awards.
