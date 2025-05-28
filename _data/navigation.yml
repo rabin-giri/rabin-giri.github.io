@@ -6,16 +6,15 @@
 
 main:
   - title: "Publications"
-    url: /publications/
-
+    url: https://scholar.google.com/citations?user=gr_TyU4AAAAJ&hl=en
   # - title: "Talks"
   #   url: /talks/    
 
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  # - title: "Portfolio"
+    # url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
